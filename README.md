@@ -8,7 +8,7 @@ Gunyoung's maven repo
 <repositories>
  <repository>
   <id>gunyoung-release</id>
-  <url>https://github.com/Gunyoung-Kim/maven-repo/tree/master/repo/releases</url>
+  <url>https://raw.githubusercontent.com/Gunyoung-Kim/maven-repo/master/repo/releases</url>
  </repository>
 </repositories>
 ```
